@@ -1,0 +1,15 @@
+{
+  "database": {
+    "server": "10.10.6.107",
+    "database": "Gpartner",
+    "username": "zvm",
+    "password": "180575"
+  },
+  "logging": {
+    "level": "INFO"
+  },
+  "app": {
+    "host": "0.0.0.0",
+    "port": 8083
+  }
+}
